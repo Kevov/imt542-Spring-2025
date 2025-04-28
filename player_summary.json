@@ -1,0 +1,26 @@
+{
+    "response": {
+        "players": [
+            {
+                "steamid": "76561198093350449",
+                "communityvisibilitystate": 3,
+                "profilestate": 1,
+                "personaname": "Juan Pun Man",
+                "profileurl": "https://steamcommunity.com/profiles/76561198093350449/",
+                "avatar": "https://avatars.steamstatic.com/9c826b5a8317cf9bba22e252e076a64c9a4ab650.jpg",
+                "avatarmedium": "https://avatars.steamstatic.com/9c826b5a8317cf9bba22e252e076a64c9a4ab650_medium.jpg",
+                "avatarfull": "https://avatars.steamstatic.com/9c826b5a8317cf9bba22e252e076a64c9a4ab650_full.jpg",
+                "avatarhash": "9c826b5a8317cf9bba22e252e076a64c9a4ab650",
+                "lastlogoff": 1745759024,
+                "personastate": 1,
+                "realname": "Khoa Luong",
+                "primaryclanid": "103582791429521408",
+                "timecreated": 1370221944,
+                "personastateflags": 0,
+                "loccountrycode": "US",
+                "locstatecode": "WA",
+                "loccityid": 4030
+            }
+        ]
+    }
+}
